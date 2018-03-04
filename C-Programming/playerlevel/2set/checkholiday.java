@@ -3,7 +3,7 @@ import java.lang.*;
 public class sunday {
      public static void main(String aa[]){
      int n;
-     String d[]={"MONDAY","TUESDAY","WEDNESDAY","THRUSDAY","FRIDAY","SATURDAY"};
+     String d[]={"MONDAY","TUESDAY","WEDNESDAY","THRUSDAY","FRIDAY"};
      String b;
      int y=0;
      Scanner s=new Scanner(System.in);
