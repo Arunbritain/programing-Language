@@ -9,6 +9,9 @@ int main(void)
 	int a[n],i,j,temp;
 	for(i=0;i<n;i++)
 	{
+		
+		
+		
 		scanf("%d ",&a[i]);
 	}
 	for(i=0;i<n;i++)
