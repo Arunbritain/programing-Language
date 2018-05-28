@@ -3,6 +3,8 @@ s (37 sloc)  427 Bytes
 int main(void) 
 {
 	int n;
+	
+	
 	scanf("%d",&n);
 	int a[n],i,j,temp,temp1=0;
 	for(i=0;i<n;i++)
