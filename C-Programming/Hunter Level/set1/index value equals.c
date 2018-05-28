@@ -2,6 +2,8 @@
 int main(void) 
 {
 	int n;
+	
+	
 	scanf("%d",&n);
 	int a[n],i,b[n],j=0,temp,count=0,k;
 	for(i=0;i<n;i++)
