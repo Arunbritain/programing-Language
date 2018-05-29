@@ -1,3 +1,5 @@
 from itertools import permutations
-permu = [''.join(p) for p in permutations('love')]
+
+type(a)
+permu = [''.join(p) for p in permutations(a)]
 print(permu)
